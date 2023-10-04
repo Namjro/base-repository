@@ -1,5 +1,5 @@
 {
-    "name": "admin/base-repository-nambv",
+    "name": "nambv-1702/base-repository-nambv",
     "description": "Base repository nambv",
     "autoload": {
         "psr-4": {
