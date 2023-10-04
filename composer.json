@@ -1,0 +1,16 @@
+{
+    "name": "admin/base-repository",
+    "description": "Base repository",
+    "autoload": {
+        "psr-4": {
+            "Admin\\BaseRepository\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nambui",
+            "email": "bnam17@gmail.com"
+        }
+    ],
+    "require": {}
+}
